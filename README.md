@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Reduxx99
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Impact Discord bot 
 
-<!---
-Reduxx99/Reduxx99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Website: http://impactbot.ml/
+
+Discord server: https://discord.gg/CskyU6sHqR
+
+Invite link: https://discord.com/api/oauth2/authorize?client_id=998651983793766410&permissions=8&scope=bot
